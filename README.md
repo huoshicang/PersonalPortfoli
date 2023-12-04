@@ -1,24 +1,10 @@
-# personal-introduction
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<h1 align="center">PersonalPortfoli</h1>
+<p align="center"><strong><em>可以用来做简单的个人介绍，个人网站主页</em></strong></p>
+<hr />
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![img.png](img.png)
 
-### Lints and fixes files
-```
-npm run lint
-```
+基于Vue3.0 + Element-Plus + VueI18n + VueRouter
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
